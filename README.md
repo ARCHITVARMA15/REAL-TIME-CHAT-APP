@@ -1,5 +1,5 @@
 # REAL-TIME-CHAT-APP
-A modern, responsive real-time chat application built using [your tech stack, e.g., Node.js, Socket.IO, React, Firebase, etc.]. This app allows multiple users to communicate instantly across a sleek and intuitive interface — ideal for both desktop and mobile.
+A modern, responsive real-time chat application built using  Node.js, Socket.IO, React . This app allows multiple users to communicate instantly across a sleek and intuitive interface — ideal for both desktop and mobile.
 
 🔑 Key Features
 ⚡ Real-time messaging using WebSockets / Firebase
